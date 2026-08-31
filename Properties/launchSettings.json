@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "KeImageEditor": {
+      "commandName": "Project"
+    },
+    "Unpackaged": {
+      "commandName": "Executable",
+      "executablePath": "$(targetpath)",
+      "workingDirectory": "C:\\Users\\Srapi\\Desktop\\KeImageEditor\\koukai2"
+    }
+  }
+}
